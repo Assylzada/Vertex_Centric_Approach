@@ -1,4 +1,3 @@
-# graph
 # Graph Algorithms Implementation (Vertex-Centric Approach)
 
 This project implements Breadth-First Search (BFS) and Dijkstra's algorithm for a vertex-centric weighted graph, where vertices maintain their own adjacency information.
